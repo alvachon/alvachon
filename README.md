@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🖥️ Working on ft_printf with bonus because I like pain and misery.
 - 📖 Learning C
 - ⚙️ PM alvachon93@pm.me
 - 🦉 Duolingo : AlVachon
-- 📗 Blinkist : 339
+- 📗 Blinkist : 369
 
 <!--
 **alvachon/alvachon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
