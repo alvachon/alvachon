@@ -12,7 +12,7 @@ Data Engineering Zoomcamp, free and self-paced. You can join [here](https://gith
 * **Python**
 ### :triangular_flag_on_post: Data engineering course **start 16 January 2023** !
 
-# [42 Cursus](https://42quebec.com/
+# [42 Cursus](https://42quebec.com/)
 My current cursus at school 42\
 **PIPEX** | [**SO LONG**](https://github.com/alvachon/42_so_long)`|`[**PUSH SWAP**](https://github.com/alvachon/42_push_swap) | [**FT PRINTF**](https://github.com/alvachon/42_ft_printf) | [**BORN2BEROOT**](https://github.com/alvachon/42_born2beroot) | [**GET NEXT LINE**](https://github.com/alvachon/42_get_next_line) | [**LIBFT**](https://github.com/alvachon/42_libft)
 * **42 Quebec stats**\
