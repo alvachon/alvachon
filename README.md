@@ -13,7 +13,7 @@ FT_TRANSCENDANCE | INCEPTION | WEBSERV | CPP2 | CPP_1 | **CUBE3D** | **NET PRACT
 [**C#**](https://github.com/alvachon/csharp_learn) | [**SWIFT**](https://github.com/alvachon/swift_learn) | [**POSTGRESQL**](https://github.com/alvachon/postgres_note)
 
 # Nerd Stuff
-[Programming-principles](https://github.com/webpro/programming-principles)
+[Programming-principles](https://github.com/webpro/programming-principles)\
 [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
 
 ## Framework
