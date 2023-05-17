@@ -7,7 +7,7 @@
 
 # [42 Cursus](https://42quebec.com/)
 ### My current cursus at school 42
-FT_TRANSCENDANCE | INCEPTION | WEBSERV | CPP2 | CPP_1 | [**CUBE3D**](https://github.com/alvachon/42_cub3d) | [**NET PRACTICE**](https://github.com/alvachon/42_netpractice) | [**PHILOSOPHER**](https://github.com/alvachon/42_philosopher) | [**MINISHELL**](https://github.com/alvachon/minishell) | [**PIPEX**](https://github.com/alvachon/42_pipex) | [**SO LONG**](https://github.com/alvachon/42_so_long) | [**PUSH SWAP**](https://github.com/alvachon/42_push_swap) | [**FT PRINTF**](https://github.com/alvachon/42_ft_printf) | [**BORN2BEROOT**](https://github.com/alvachon/42_born2beroot) | [**GET NEXT LINE**](https://github.com/alvachon/42_get_next_line) | [**LIBFT**](https://github.com/alvachon/42_libft)
+FT_TRANSCENDANCE | INCEPTION | WEBSERV | CPP_2 | CPP_1 | [**CUBE3D**](https://github.com/alvachon/42_cub3d) | [**NET PRACTICE**](https://github.com/alvachon/42_netpractice) | [**PHILOSOPHER**](https://github.com/alvachon/42_philosopher) | [**MINISHELL**](https://github.com/alvachon/minishell) | [**PIPEX**](https://github.com/alvachon/42_pipex) | [**SO LONG**](https://github.com/alvachon/42_so_long) | [**PUSH SWAP**](https://github.com/alvachon/42_push_swap) | [**FT PRINTF**](https://github.com/alvachon/42_ft_printf) | [**BORN2BEROOT**](https://github.com/alvachon/42_born2beroot) | [**GET NEXT LINE**](https://github.com/alvachon/42_get_next_line) | [**LIBFT**](https://github.com/alvachon/42_libft)
 # Funsies
 ### My free time exploration
 [**C#**](https://github.com/alvachon/csharp_learn) | [**SWIFT**](https://github.com/alvachon/swift_learn) | [**POSTGRESQL**](https://github.com/alvachon/postgres_note)
